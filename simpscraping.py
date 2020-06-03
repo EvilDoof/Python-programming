@@ -1,3 +1,5 @@
+#Using the requests library
+
 import requests
 from bs4 import BeautifulSoup
 page = requests.get("https://myanimelist.net/")
